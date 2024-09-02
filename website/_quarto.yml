@@ -4,8 +4,9 @@ project:
 
 website:
   title: "TONe Integrated Cloud Observatory"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    contents:
       - href: index.qmd
         text: Home
       - about.qmd
