@@ -14,7 +14,7 @@
     "href": "blog/index.html",
     "title": "TONe ICO Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 30, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items",
+    "text": "Post With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Blog"
     ]
@@ -24,7 +24,7 @@
     "href": "blog/posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is a post with executable code.\n\nimport xarray as xr\n\nprint('Hello World!')\n\nHello World!"
   },
   {
     "objectID": "index.html",
@@ -39,9 +39,9 @@
   {
     "objectID": "blog/posts/welcome/index.html",
     "href": "blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome to the TONe ICO Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
   },
   {
     "objectID": "blog/about.html",
