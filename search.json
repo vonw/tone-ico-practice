@@ -14,17 +14,17 @@
     "href": "blog/index.html",
     "title": "TONe ICO Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
+    "text": "Logistics meeting in Leeds\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Blog"
     ]
   },
   {
-    "objectID": "blog/posts/post-with-code/index.html",
-    "href": "blog/posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome to the TONe ICO Blog",
     "section": "",
-    "text": "This is a post with executable code.\n\nimport xarray as xr\n\nprint('Hello World!')\n\nHello World!"
+    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
   },
   {
     "objectID": "index.html",
@@ -37,11 +37,18 @@
     ]
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome to the TONe ICO Blog",
+    "objectID": "blog/posts/post-with-code/index.html",
+    "href": "blog/posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
+    "text": "This is a post with executable code.\n\nimport xarray as xr\n\nprint('Hello World!')\n\nHello World!"
+  },
+  {
+    "objectID": "blog/posts/meeting-in-Leeds/index.html",
+    "href": "blog/posts/meeting-in-Leeds/index.html",
+    "title": "Logistics meeting in Leeds",
+    "section": "",
+    "text": "Hey Everyone! Our research team is meeting at the University of Leeds this week to plan detailed logistics for the installation in January 2025 of equipment for the Integrated Cloud Observatory."
   },
   {
     "objectID": "blog/about.html",
