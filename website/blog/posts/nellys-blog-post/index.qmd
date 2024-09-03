@@ -1,6 +1,6 @@
 ---
-title: ""
-author: ""
+title: "Nelly's Blog Post"
+author: "rrniii"
 date: "2024-09-03"
 categories: [collaboration]
 ---
