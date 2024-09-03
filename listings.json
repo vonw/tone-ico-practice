@@ -2,9 +2,10 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/Neely Test/index.html",
       "/blog/posts/meeting-in-Leeds/index.html",
+      "/blog/posts/Neely Test/index.html",
       "/blog/posts/nellys-blog-post/index.html",
+      "/blog/posts/Steve test/index.html",
       "/blog/posts/post-with-code/index.html",
       "/blog/posts/welcome/index.html"
     ]

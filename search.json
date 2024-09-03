@@ -1,5 +1,36 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TONe Integrated Cloud Observatory",
+    "section": "",
+    "text": "This is a Quarto website for practicing.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "blog/posts/Steve test/index.html",
+    "href": "blog/posts/Steve test/index.html",
+    "title": "Logistics meeting in The NORTH",
+    "section": "",
+    "text": "Can I break something?"
+  },
+  {
+    "objectID": "blog/posts/meeting-in-Leeds/index.html",
+    "href": "blog/posts/meeting-in-Leeds/index.html",
+    "title": "Logistics meeting in Leeds",
+    "section": "",
+    "text": "Hey Everyone! Our research team is meeting at the University of Leeds this week to plan detailed logistics for the installation in January 2025 of equipment for the Integrated Cloud Observatory."
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About practicing",
@@ -14,33 +45,9 @@
     "href": "blog/index.html",
     "title": "TONe ICO Blog",
     "section": "",
-    "text": "Neely Test Post\n\n\n\n\n\n\nneely\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nrrniii\n\n\n\n\n\n\n\n\n\n\n\n\nLogistics meeting in Leeds\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNelly’s Blog Post\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nrrniii\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
+    "text": "Logistics meeting in Leeds\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nNeely Test Post\n\n\n\n\n\n\nneely\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nrrniii\n\n\n\n\n\n\n\n\n\n\n\n\nNelly’s Blog Post\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nrrniii\n\n\n\n\n\n\n\n\n\n\n\n\nLogistics meeting in The NORTH\n\n\n\n\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 3, 2024\n\n\nSteve\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Blog"
-    ]
-  },
-  {
-    "objectID": "blog/posts/meeting-in-Leeds/index.html",
-    "href": "blog/posts/meeting-in-Leeds/index.html",
-    "title": "Logistics meeting in Leeds",
-    "section": "",
-    "text": "Hey Everyone! Our research team is meeting at the University of Leeds this week to plan detailed logistics for the installation in January 2025 of equipment for the Integrated Cloud Observatory."
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome to the TONe ICO Blog",
-    "section": "",
-    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TONe Integrated Cloud Observatory",
-    "section": "",
-    "text": "This is a Quarto website for practicing.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Home"
     ]
   },
   {
@@ -51,10 +58,10 @@
     "text": "This is a post with executable code.\n\nimport xarray as xr\n\nprint('Hello World!')\n\nHello World!"
   },
   {
-    "objectID": "blog/about.html",
-    "href": "blog/about.html",
-    "title": "About",
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome to the TONe ICO Blog",
     "section": "",
-    "text": "About this blog"
+    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
   }
 ]
