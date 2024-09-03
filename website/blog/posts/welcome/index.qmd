@@ -1,12 +1,12 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-08-30"
+title: "Welcome to the TONe ICO Blog"
+author: "Von P. Walden"
+date: "2024-09-02"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post to the TONe ICO blog. Welcome!
 
-![](thumbnail.jpg)
+Here is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+![](../../Troll_research_station_Antarctica.JPG)

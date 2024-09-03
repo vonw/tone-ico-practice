@@ -1,9 +1,15 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Von P. Walden"
 date: "2024-09-02"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [code, analysis]
 ---
 
 This is a post with executable code.
+
+```{python}
+import xarray as xr
+
+print('Hello World!')
+```
+

@@ -1,0 +1,12 @@
+{
+  "hash": "1737dee3e17f79c3d6cc5907fcc58f5a",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Von P. Walden\"\ndate: \"2024-09-02\"\ncategories: [code, analysis]\n---\n\n\nThis is a post with executable code.\n\n::: {#2de4cab4 .cell execution_count=1}\n``` {.python .cell-code}\nimport xarray as xr\n\nprint('Hello World!')\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello World!\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

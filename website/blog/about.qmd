@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: Troll_research_station_Antarctica.JPG
 about:
   template: jolla
   links:

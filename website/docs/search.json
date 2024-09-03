@@ -10,6 +10,23 @@
     ]
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "TONe ICO Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the TONe ICO Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nVon P. Walden\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "blog/posts/post-with-code/index.html",
+    "href": "blog/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\nimport xarray as xr\n\nprint('Hello World!')\n\nHello World!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "TONe Integrated Cloud Observatory",
@@ -18,5 +35,19 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome to the TONe ICO Blog",
+    "section": "",
+    "text": "This is the first post to the TONe ICO blog. Welcome!\nHere is an image of Troll Station from https://en.wikipedia.org/wiki/Troll_(research_station)"
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]
