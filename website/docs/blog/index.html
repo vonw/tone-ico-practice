@@ -206,7 +206,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="collaboration">collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-body" id="quarto-document-content">
 
@@ -220,7 +220,40 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="code,analysis" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1725311328152" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="0" data-categories="collaboration" data-listing-date-sort="1725318000000" data-listing-file-modified-sort="1725351042549" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="thumbnail">
+<p><a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external"></a></p><a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external">Logistics meeting in Leeds</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('collaboration'); return false;">
+collaboration
+</div>
+</div>
+<div class="listing-description">
+<a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external">Hey Everyone! Our research team is meeting at the University of Leeds this week to plan detailed logistics for the installation in January 2025 of equipment for the…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../blog/posts/meeting-in-Leeds/index.html" class="no-external">
+<div class="listing-date">
+Sep 3, 2024
+</div>
+<div class="listing-author">
+Von P. Walden
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="code,analysis" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1725311328152" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="thumbnail">
 <p><a href="../blog/posts/post-with-code/index.html" class="no-external"></a></p><a href="../blog/posts/post-with-code/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -256,7 +289,7 @@ Von P. Walden
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1725310587960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
+<div class="quarto-post image-right" data-index="2" data-categories="news" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1725310587960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
 <div class="thumbnail">
 <p><a href="../blog/posts/welcome/index.html" class="no-external"></a></p><a href="../blog/posts/welcome/index.html" class="no-external">
 <p class="card-img-top"><img src="Troll_research_station_Antarctica.JPG"  class="thumbnail-image card-img"/></p>
@@ -386,7 +419,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/vonw\.github\.io\/tone-ico-practice\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

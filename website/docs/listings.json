@@ -2,6 +2,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/meeting-in-Leeds/index.html",
       "/blog/posts/post-with-code/index.html",
       "/blog/posts/welcome/index.html"
     ]
