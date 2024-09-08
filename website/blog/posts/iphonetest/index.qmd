@@ -1,0 +1,6 @@
+---
+title: "Blog Post from Phone; making index file"
+author: "rrniii"
+date: "2024-09-08"
+categories: [collaboration]
+---
